@@ -1,0 +1,15 @@
+- name: Laravel 中文文档
+  url: https://learnku.com/docs/laravel/
+  img: https://cdn.learnku.com//uploads/communities/WtC3cPLHzMbKRSZnagU9.png!/both/44x44
+  description:
+  # ------------------------------------------
+- name: 菜鸟教程
+  url: https://www.runoob.com/
+  img: https://www.runoob.com/favicon.ico
+  description:
+  # ------------------------------------------
+- name: Hexo
+  url: https://hexo.io/zh-cn/docs/
+  img: https://hexo.io/favicon.ico
+  description: Hexo 是一个快速、简洁且高效的博客框架。
+  # ------------------------------------------

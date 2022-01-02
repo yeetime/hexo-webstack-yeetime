@@ -1,0 +1,15 @@
+- name: Yeetime Blog
+  url: https://www.yeetime.top
+  img: /favicon.ico
+  description: 一个空空的博客。
+  # ------------------------------------------
+- name: 我的笔记 - Notion
+  url: https://yeetime.notion.site/Note-245fa4a742c24181a068422bb91071c4
+  img: https://www.notion.so/images/favicon.ico
+  description: 知识碎片整理
+  # ------------------------------------------
+- name: 软件下载 - 蓝奏云
+  url: https://486.lanzoui.com/b00hoj5yf
+  img: https://486.lanzoui.com/favicon.ico
+  description: 收集的一些常用软件安装包
+  # ------------------------------------------

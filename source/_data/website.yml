@@ -1,0 +1,55 @@
+- name: Github
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 面向开源及私有软件项目的托管平台
+  # ------------------------------------------
+- name: CODING
+  url: https://voe.coding.net/
+  img: https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico
+  description: Coding.net 是一个面向开发者的云端开发平台，提供 Git/SVN 代码托管、任务管理、在线 WebIDE、Cloud Studio、开发协作、文件管理、Wiki 管理、提供个人服务及企业版本的服务
+  # ------------------------------------------
+- name: 哔哩哔哩
+  url: https://www.bilibili.com/
+  img: https://www.bilibili.com/favicon.ico
+  description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+  # ------------------------------------------
+- name: 知乎
+  url: https://www.zhihu.com/
+  img: https://static.zhihu.com/static/favicon.ico
+  description: 有问题，上知乎。
+  # ------------------------------------------
+- name: steam
+  url: https://store.steampowered.com/
+  img: https://store.steampowered.com/favicon.ico
+  description: 卖游戏的
+  # ------------------------------------------
+- name: SCP 基金会
+  url: http://scp-wiki-cn.wikidot.com/
+  img: https://scp-wiki-cn.wikidot.com/local--iosicon/iosicon_57.png
+  description: 控制，收容，保护
+  # ------------------------------------------
+- name: wallhaven
+  url: https://wallhaven.cc/
+  img: https://wallhaven.cc/favicon.ico
+  description: Your source for the best high quality wallpapers on the Net!
+  # ------------------------------------------
+- name: 吾爱破解
+  url: https://www.52pojie.cn/
+  img: https://www.52pojie.cn/favicon.ico
+  description: 吾爱破解,破解论坛,破解软件,软件论坛,病毒分析,脱壳破解,安卓破解,加密解密,软件安全
+  # ------------------------------------------
+- name: 其乐 Keylol
+  url: https://keylol.com/
+  img: https://keylol.com/favicon.ico
+  description: 其乐社区
+  # ------------------------------------------
+- name: 致美化
+  url: https://zhutix.com/
+  img: https://zhutix.com/favicon.ico
+  description: 国内最大的桌面美化资源分享平台
+  # ------------------------------------------
+- name: V2EX
+  url: https://www.v2ex.com/
+  img: /images/v2ex_192.png
+  description: 创意工作者们的社区
+  # ------------------------------------------

@@ -1,0 +1,30 @@
+- name: 网速测试 - 测速网
+  url: https://www.speedtest.cn/
+  img: https://www.speedtest.cn/images/ico/favicon.png
+  description:
+  # ------------------------------------------
+- name: GitHub 文件加速
+  url: https://github-download.yeetime.top/
+  img: /images/logos/github.png
+  description:
+  # ------------------------------------------
+- name: IP 查询
+  url: https://www.ip.cn/
+  img: /favicon.ico
+  description: IP.cn - IP 地址查询 | 地理位置 | 手机归属地
+  # ------------------------------------------
+- name: Postwoman
+  url: https://reqres.cn/
+  img: https://reqres.cn/favicon.ico
+  description: 免费、快速、漂亮的API测试请求开发工具
+  # ------------------------------------------
+- name: App&Web国际化翻译搜索
+  url: https://i18ns.com/zh/index.html
+  img: https://i18ns.com/favicon.ico
+  description: 多语言翻译搜索网站
+  # ------------------------------------------
+- name: 汇率转换计算器
+  url: https://freecurrencyrates.com/zh-hans/
+  img: https://freecurrencyrates.com/images/favicon.ico
+  description: 在线汇率转换计算器。按名称、代码、国家或使用智能搜索来从 345 种全球货币中选择。汇率每小时更新。历史汇率也可供查询。
+  # ------------------------------------------
