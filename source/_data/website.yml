@@ -50,6 +50,6 @@
   # ------------------------------------------
 - name: V2EX
   url: https://www.v2ex.com/
-  img: /images/v2ex_192.png
+  img: /img/v2ex_192.png
   description: 创意工作者们的社区
   # ------------------------------------------

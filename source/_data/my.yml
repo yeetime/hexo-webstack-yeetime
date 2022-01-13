@@ -1,7 +1,7 @@
-- name: Yeetime Blog
-  url: https://www.yeetime.top
-  img: /favicon.ico
-  description: 一个空空的博客。
+#- name: Yeetime Blog
+#  url: https://www.yeetime.top
+#  img: /favicon.ico
+#  description: 一个空空的博客。
   # ------------------------------------------
 - name: 我的笔记 - Notion
   url: https://yeetime.notion.site/Note-245fa4a742c24181a068422bb91071c4

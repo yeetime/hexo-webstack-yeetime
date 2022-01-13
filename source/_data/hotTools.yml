@@ -10,7 +10,7 @@
   # ------------------------------------------
 - name: IP 查询
   url: https://www.ip.cn/
-  img: /favicon.ico
+  img: https://www.ip.cn/img/favicon.ico
   description: IP.cn - IP 地址查询 | 地理位置 | 手机归属地
   # ------------------------------------------
 - name: Postwoman

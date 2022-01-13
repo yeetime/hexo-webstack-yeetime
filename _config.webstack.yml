@@ -1,12 +1,12 @@
 # 详细文档： https://blog.hclonely.com/posts/3cd4fb34/
 
-favicon: /favicon.ico
-banner: /images/webstack_banner_cn.png
+favicon: /img/favicon.png
+banner: /img/webstack_banner_cn.png
 
 logo:
-  expanded: /images/logo@2x.png
-  collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  expanded: /img/logo@2x.png
+  collapsed: /img/logo-collapsed@2x.png
+  dark: /img/logo_dark@2x.png
 
 flag:
   icon: flag-cn
@@ -92,6 +92,9 @@ busuanzi:
 custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
+    <style>
+        ul{list-style-type: none;}
+    </style>
     <!-- 可设置多行 -->
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
